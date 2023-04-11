@@ -20,12 +20,16 @@ Nesse módulo aprendemos conceitos como:
 - Banco de dados relacional
 - SQL
 - Migrations
+- Query Builder
+- Knex
 
 ## 🚀 Rodando o projeto
 
 ```bash
 npm install
-npm run dev
+npm run dev # to start nodemon
+npx knex migrate:make 'migrationName' # to create a migration
+npm run migrate # to create a migration in database
 ```
 
 ## 🔗 Links
