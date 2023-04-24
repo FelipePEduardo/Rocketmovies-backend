@@ -23,6 +23,12 @@ Nesse módulo aprendemos conceitos como:
 - Query Builder
 - Knex
 
+- Autenticação de usuários
+- Json Web Token(JWT)
+- Upload de imagens
+- API ResTful 
+- Conectando back-end com front-end com o CORS
+
 ## 🚀 Rodando o projeto
 
 ```bash
