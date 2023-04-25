@@ -29,6 +29,9 @@ Nesse módulo aprendemos conceitos como:
 - API ResTful 
 - Conectando back-end com front-end com o CORS
 
+Testes Automatizados
+- Jest
+
 ## 🚀 Rodando o projeto
 
 ```bash
