@@ -36,6 +36,8 @@ npm install
 npm run dev # to start nodemon
 npx knex migrate:make 'migrationName' # to create a migration
 npm run migrate # to create a migration in database
+
+'config file .env with the examples of file .env.example'
 ```
 
 ## 🔗 Links
